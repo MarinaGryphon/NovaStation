@@ -1,8 +1,10 @@
-# polaris
+# NovaStation
 
 [Forums](https://forum.ss13polaris.com/) - [Wiki](http://wiki.ss13polaris.com/) - [Discord](https://discord.gg/dvUcacC)
 
 Polaris is a fork of the Baystation12 code branch for the game Spacestation13.
+
+NovaStation runs a modified Polaris codebase.
 
 ---
 
